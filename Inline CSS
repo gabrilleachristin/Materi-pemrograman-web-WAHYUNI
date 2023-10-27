@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=<>, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+  <p stayle="color: red; font-family: Arial, Helvetica, sans-serif;">Tulisan ini berwarna merah</p>
+  <p stayle="font-weight: bold; font-family: 'courir New', courir, monospaice;">Tulisan di cetak tebal</p>
+
+</body>
+</html>
